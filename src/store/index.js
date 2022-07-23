@@ -13,7 +13,8 @@ const getLocalShopCartList = () => {
   // 商店id
   // 1: {
   // 商店名称
-  //   shopname: "沃尔玛",
+  // shopname: "沃尔玛",
+  // 商品列表
   // productList: {
   // 商品id
   //     1: {
